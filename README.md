@@ -4,18 +4,18 @@ Self-taught engineer from Paraguay. Went from zero to the only frontend engineer
 
 ### Currently building [Talkeo](https://talkeo.ai)
 
-An AI English tutor that **measures what you actually know** — from how you use the language, never tests — and trains you for the situations you care about.
+An AI English tutor that **knows what you know**. It measures each skill area from how you actually use the language — never tests — is honest about what it hasn't measured yet, and builds your practice around what you want English *for*.
 
-- Per-skill measurement with explicit uncertainty, built to never overclaim: "not measured yet" is a first-class answer
-- Real-time voice pipeline at **sub-900ms** voice-to-voice (WebRTC, STT, multi-provider LLM, TTS), with live language switching
+Every layer, built solo:
+
+- The measurement system: per-area levels with explicit uncertainty, designed to never overclaim
+- Real-time voice pipeline at **sub-900ms** voice-to-voice (WebRTC, STT, multi-provider LLM, TTS)
 - Multi-provider routing with automatic fallback and no vendor lock-in, at about 1.5 cents per minute of conversation
-- Python/FastAPI backend deployed to AWS from scratch (Terraform, GitHub OIDC)
-- Native macOS clients in Swift/SwiftUI: system audio capture, live subtitles, and real-time voice translation
-- Trained the custom bilingual voices myself
+- Backend on AWS from scratch (Python/FastAPI, Terraform) · native macOS clients in Swift/SwiftUI · custom bilingual voices trained myself
 
 ### Before
 
-Sole frontend engineer at **Notte (YC S25)**. Owned the entire product frontend (Console: 310K+ LOC, 47 pages, 600+ commits) and contributed across the stack in Python/FastAPI.
+Sole frontend engineer at **Notte (YC S25)** — owned the entire product frontend and contributed across the stack in Python/FastAPI.
 
 ### How I work
 
