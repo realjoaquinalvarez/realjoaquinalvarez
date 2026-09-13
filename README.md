@@ -8,7 +8,7 @@ An AI English tutor that **knows what you know**. It measures each skill area fr
 
 Every layer, built solo:
 
-- The measurement system: per-area levels with explicit uncertainty, designed to never overclaim
+- The measurement system: a **40K+ word map graded by meaning**, each word tracked across **18 dimensions of knowing** (receptive and productive) — a working copy of your English, with explicit uncertainty and designed to never overclaim
 - Real-time voice pipeline at **sub-900ms** voice-to-voice (WebRTC, STT, multi-provider LLM, TTS)
 - Multi-provider routing with automatic fallback and no vendor lock-in, at about 1.5 cents per minute of conversation
 - Backend on AWS from scratch (Python/FastAPI, Terraform) · native macOS clients in Swift/SwiftUI · custom bilingual voices trained myself
